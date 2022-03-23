@@ -2,18 +2,18 @@
 
 Create a Github repo that showcases foundational use of git, command line and html including:
 git
-  workflow
+  -workflow
 command line
-  files
-  directories
+  -files
+  -directories
 html
-  boilerplate
-  headings
-  paragraphs
-  lists
-  links
-  images
-  attributes
+  -boilerplate
+  -headings
+  -paragraphs
+  -lists
+  -links
+  -images
+  -attributes
 
 This repo contains a series of 3 recipe pages linked to an index.
 
