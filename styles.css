@@ -9,7 +9,7 @@
   width: 50%;
   margin: auto;
   padding: 5px;
-  border: solid red 1px;
+  border: solid rgb(158 58 40) 1px;
 }
 
 .top {
@@ -23,6 +23,6 @@
 
 li {
   margin: auto;
-  color: red;
-  border: solid red 1px;
+  color: rgb(185 131 55);
+  border: solid rgb(158 58 40)1px;
 }
