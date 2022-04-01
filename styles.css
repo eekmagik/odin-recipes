@@ -4,3 +4,10 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
+.centered {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding: 5px;
+  border: solid red 1px;
+}
