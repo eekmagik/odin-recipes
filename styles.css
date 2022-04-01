@@ -11,3 +11,12 @@
   padding: 5px;
   border: solid red 1px;
 }
+
+.top {
+  display: block;
+  width: 25%;
+  height: auto;
+  margin-top: 1ch;
+  margin-left: auto;
+  margin-right: auto;
+}
